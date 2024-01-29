@@ -56,10 +56,10 @@
 			children = (
 				4ED6EA272B67B89300B5DFD5 /* AppDelegate.swift */,
 				4ED6EA292B67B89300B5DFD5 /* SceneDelegate.swift */,
+				4ED6EA3B2B67B8F600B5DFD5 /* CardSelectionVC.swift */,
 				4ED6EA302B67B89500B5DFD5 /* Assets.xcassets */,
 				4ED6EA322B67B89500B5DFD5 /* LaunchScreen.storyboard */,
 				4ED6EA352B67B89500B5DFD5 /* Info.plist */,
-				4ED6EA3B2B67B8F600B5DFD5 /* CardSelectionVC.swift */,
 			);
 			path = CardWorkout;
 			sourceTree = "<group>";
